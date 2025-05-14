@@ -37,8 +37,5 @@ React.js (If coded) – For frontend development
 
 GitHub – Version control and project hosting
 
-📸 Screenshots
-
-Include relevant screenshots of your design for better visualization.
 
 
